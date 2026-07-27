@@ -1,0 +1,4 @@
+One-Line Intuition
+Distance formula tells us the straight-line length between two points on a coordinate plane.
+For Data Science/ML, it's used to measure similarity between data points (e.g., in KNN and Clustering algorithms).
+Abid
